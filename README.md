@@ -23,6 +23,6 @@ Routers, switches, and Firewall ASAs
 
 
 ## Notes
-- Ensure that Netmiko and its dependencies are installed (pip install netmiko).
+- Ensure that Netmiko and its dependencies are installed **(pip install netmiko)**.
 - Use this script responsibly and in accordance with your organization's network policies.
 - Feel free to contribute or provide feedback to improve the script's functionality.
