@@ -12,7 +12,7 @@ This Python script automates the process of pushing and pulling commands to Cisc
 
 ## Compatibility
 ### Tested on:
-**Cisco IOS devices** :
+- **Cisco IOS devices** :
 Routers, switches, and Firewall ASAs
 
 ## Instructions
